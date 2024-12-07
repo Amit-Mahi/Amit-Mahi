@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Working on Chatbot For a college Website.<br>I'm looking to collaborate on New Projects.<br>I'm currently learning NLP.<br>Ask me about NLP.
+I'm currently Working on Chatbot For a college Website.<br>I'm currently learning NLP.<br>Ask me about NLP.
 
 
 ## 🌐 Socials:

@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently Working on Chatbot For a college Website.<br>I'm currently learning NLP.<br>Ask me about NLP.
+Successfully created "Virtual AI Assistant" for my own college to "Assist" them in front desk tasks.
+Done A One Month Intership at "QVOLV Technologies" to integrate "Virtual AI Assistant" into "Artificial Reality and Virtual Reality".
+Working On Meta Quest 2 an "AR/VR" headset to develop an app.
 
 
 ## 🌐 Socials:
